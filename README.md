@@ -22,6 +22,10 @@ You can use two distinct users to access this application:
 |alice|alice|user|
 |jdoe|jdoe|user, user-premium|
 
+Download <span>Keycloak</span>
+-----------------------
+https://www.keycloak.org/archive/downloads-15.0.2.html
+
 Configuration in <span>Keycloak</span>
 -----------------------
 Prior to running the demokeycloakspring you need to create a `realm` in <span>Keycloak</span>.
